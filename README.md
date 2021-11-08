@@ -1,6 +1,8 @@
 Seminar
 ===========
 Top Conferences 발표된 논문을 매주 한 명의 발표자가 발표를 진행하는 세미나입니다. 
+<br><br>
+
 |날짜|제목|발표자|
 |----|----|------|
 |210730|HATECHECK: Functional Tests for Hate Speech Detection Models|이상윤|
