@@ -5,7 +5,7 @@ Top Conferences 발표된 논문을 매주 한 명의 발표자가 발표를 진
 
 |날짜|제목|발표자|
 |----|----|------|
-|220308|A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios|송선영|
+|220315|A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios|송선영|
 |220308|text Data Augmentation|박채원|
 |211105|Automatic Identification of Harmful, Aggressive, Abusive, and Offensive Language on the Web : A Survey of Technical Biases Informed by Psychology Literature|박채원,이상윤|
 |211001|What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers|송선영|
