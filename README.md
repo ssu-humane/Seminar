@@ -6,7 +6,7 @@ Top Conferences 발표된 논문을 매주 한 명의 발표자가 발표를 진
 |날짜|제목|Venue|발표자|
 |----|----|----|----|
 |220315|A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios|NAACL 2021|송선영|
-|220308|text Data Augmentation|EMNLP 2019|박채원|
+|220308|EDA:Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks|EMNLP 2019|박채원|
 |211105|Automatic Identification of Harmful, Aggressive, Abusive, and Offensive Language on the Web : A Survey of Technical Biases Informed by Psychology Literature|ACM|박채원,이상윤|
 |211001|What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers|EMNLP 2021|송선영|
 |210910|Model Compression||최혜원|
