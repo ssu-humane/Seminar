@@ -15,4 +15,4 @@ Top Conferences 발표된 논문을 매주 한 명의 발표자가 발표를 진
 |210820|Assessing Emoji Use in Modern Text Processing Tools|2021-01-02|ACL 2021|송선영|
 |210813|Changes in European Solidarity Before and During COVID-19: Evidence from a Large Crowd- and Expert-Annotated Twitter Dataset|2021-08-02|ACL 2021|최혜원|
 |210806|Ruddit: Norms of Offensiveness for English Reddit Comments|2021-06-11|ACL 2021|윤예준|
-|210730|HATECHECK: Functional Tests for Hate Speech Detection Models||2021-05-27|ACL 2021|이상윤|
+|210730|HATECHECK: Functional Tests for Hate Speech Detection Models|2021-05-27|ACL 2021|이상윤|
