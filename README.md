@@ -5,6 +5,7 @@ Top Conferences 발표된 논문을 매주 한 명의 발표자가 발표를 진
 
 |날짜|제목|발행 년도|Venue|발표자|
 |----|----|----|----|----|
+|220322|Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation|2014-09-03|EMNLP|송선영|
 |220315|A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios|2021-04-09|NAACL|송선영|
 |220308|EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks|2019-08-25|EMNLP|박채원|
 |211105|Automatic Identification of Harmful, Aggressive, Abusive, and Offensive Language on the Web : A Survey of Technical Biases Informed by Psychology Literature|2021-10-25|ACM|박채원,이상윤|
