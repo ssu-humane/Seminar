@@ -5,6 +5,9 @@ Top Conferences 발표된 논문을 매주 한 명의 발표자가 발표를 진
 
 |날짜|제목|발행 년도|Venue|발표자|
 |----|----|----|----|----|
+|220520|Deep contextualized word representations|2018-03-22|NAACL|송선영|
+|220513|ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators|2020-03-23|ICLR|박채원|
+|220506|Language Models are Few-Shot Learners|2020-07-22|OpenAI|윤예준|
 |220412|Language Models are Unsupervised Multitask Learners|2019-08-28|OpenAI|송선영|
 |220405|Improving Language Understanding by Generative Pre-Training|2018-06-11|OpenAI|박채원|
 |220329|Longformer: The Long-Document Transformer|2020-12-02||최혜원|
