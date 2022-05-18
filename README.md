@@ -3,6 +3,7 @@
 Top Conferences 발표된 논문을 매주 한 명의 발표자가 발표를 진행하는 세미나입니다. 
 <br><br>
 
+<span style="font-size:250%">
 |날짜|제목|발행 년도|Venue|발표자|
 |----|----|----|----|----|
 |220520|Deep contextualized word representations|2018-03-22|NAACL|송선영|
@@ -23,3 +24,4 @@ Top Conferences 발표된 논문을 매주 한 명의 발표자가 발표를 진
 |210813|Changes in European Solidarity Before and During COVID-19: Evidence from a Large Crowd- and Expert-Annotated Twitter Dataset|2021-08-02|ACL|최혜원|
 |210806|Ruddit: Norms of Offensiveness for English Reddit Comments|2021-06-11|ACL|윤예준|
 |210730|HATECHECK: Functional Tests for Hate Speech Detection Models|2021-05-27|ACL|이상윤|
+</span>  
