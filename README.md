@@ -6,6 +6,8 @@ Top Conferences 발표된 논문을 매주 한 명의 발표자가 발표를 진
 
 |날짜|제목|발행 년도|Venue|발표자|
 |----|----|----|----|----|
+|220603|Learning with Limited Text Data|2022-05-22|ACL tutorial|박산야|
+|220603|Knowledge-Augmented Methods for Natural Language Processing|2022-05-22|ACL tutorial|안제준|
 |220603|Vision-Language Pretraining:Current Trends and the Future|2022-05-22|ACL tutorial|윤예준|
 |220520|Deep contextualized word representations|2018-03-22|NAACL|송선영|
 |220513|ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators|2020-03-23|ICLR|박채원|
