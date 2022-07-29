@@ -6,6 +6,7 @@ Top Conferences 발표된 논문을 매주 한 명의 발표자가 발표를 진
 
 |날짜|제목|발행 년도|Venue|발표자|
 |----|----|----|----|----|
+|220729|Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing|2021-07-28||안제준|
 |220603|Vision-Language Pretraining:Current Trends and the Future|2022-05-22|ACL tutorial|윤예준|
 |220603|Knowledge-Augmented Methods for Natural Language Processing|2022-05-22|ACL tutorial|안제준|
 |220603|Learning with Limited Text Data|2022-05-22|ACL tutorial|박산야|
