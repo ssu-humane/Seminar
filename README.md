@@ -4,7 +4,7 @@ Top Conferences 발표된 논문을 매주 한 명의 발표자가 발표를 진
 <br><br>
 
 
-|날짜|제목|발행 년도|Venue|발표자|
+|발표 날짜|제목|발행 날짜|Venue|발표자|
 |----|----|----|----|----|
 |220729|[Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://arxiv.org/pdf/2107.13586.pdf)|2021-07-28||안제준|
 |220603|[Vision-Language Pretraining:Current Trends and the Future](https://aclanthology.org/2022.acl-tutorials.7.pdf)|2022-05-22|ACL tutorial|윤예준|
@@ -27,4 +27,4 @@ Top Conferences 발표된 논문을 매주 한 명의 발표자가 발표를 진
 |210820|[Assessing Emoji Use in Modern Text Processing Tools](https://aclanthology.org/2021.acl-long.110v2.pdf)|2021-01-02|ACL|송선영|
 |210813|[Changes in European Solidarity Before and During COVID-19: Evidence from a Large Crowd- and Expert-Annotated Twitter Dataset](https://arxiv.org/pdf/2108.01042.pdf)|2021-08-02|ACL|최혜원|
 |210806|[Ruddit: Norms of Offensiveness for English Reddit Comments](https://arxiv.org/pdf/2106.05664.pdf)|2021-06-11|ACL|윤예준|
-|210730|[HATECHECK: Functional Tests for Hate Speech Detection Models](https://aclanthology.org/2021.acl-long.4.pdf)|2021-05-27|ACL|이상윤|
+|[210730](https://github.com/ssu-humane/Seminar/blob/main/0730_%EB%85%BC%EB%AC%B8_%EC%9D%B4%EC%83%81%EC%9C%A4.pdf)|[HATECHECK: Functional Tests for Hate Speech Detection Models](https://aclanthology.org/2021.acl-long.4.pdf)|2021-05-27|ACL|이상윤|
