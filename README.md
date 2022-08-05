@@ -5,7 +5,7 @@ Top Conferences 발표된 논문을 매주 한 명의 발표자가 발표를 진
 <br><br>
 
 
-|발표 날짜|제목|발행 날짜|Venue|발표자|
+|발표 날짜|제목|발행 날짜|Venue|발제자|
 |----|----|----|----|----|
 |[220805]()|[HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection](https://arxiv.org/pdf/2012.10289.pdf)|2020-12-18||박채원|
 |[220729](https://github.com/ssu-humane/Seminar/blob/main/220729_%EB%85%BC%EB%AC%B8_%EC%95%88%EC%A0%9C%EC%A4%80.pdf)|[Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://arxiv.org/pdf/2107.13586.pdf)|2021-07-28||안제준|
