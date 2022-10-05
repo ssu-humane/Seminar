@@ -8,6 +8,7 @@ Top Conferences 발표된 논문을 매주 한 명의 발표자가 발표를 진
 
 |발표 날짜|제목|발행 날짜|Venue|발제자|
 |----|----|----|----|----|
+|[220930](https://github.com/ssu-humane/Seminar/blob/main/220918_%EB%85%BC%EB%AC%B8_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf)|2019-10-29|ACL 2020|안제준|
 |[220916](https://github.com/ssu-humane/Seminar/blob/main/220918_%EB%85%BC%EB%AC%B8_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722.pdf)|2019-11-13|IEEE/CVF|윤예준|
 |[220819](https://github.com/ssu-humane/Seminar/blob/main/220819_%EB%85%BC%EB%AC%B8_%EB%B0%95%EC%82%B0%EC%95%BC.pdf)|[Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence](https://arxiv.org/pdf/1903.09588.pdf)|2019-03-22|NAACL|박산야|
 |[220812](https://github.com/ssu-humane/Seminar/blob/main/220812_%EB%85%BC%EB%AC%B8_%EC%86%A1%EC%84%A0%EC%98%81.pdf)|[SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf)|2021-04-18|EMNLP|송선영|
