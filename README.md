@@ -8,6 +8,11 @@ Top Conferences 발표된 논문을 매주 한 명의 발표자가 발표를 진
 
 |발표 날짜|제목|발행 날짜|Venue|발제자|
 |----|----|----|----|----|
+|[221104](-)|[Detecting Contextomized Quotes in News Headlines by Contrastive Learning](-)|||송선영|
+|[221104](-)|[초거대 언어 모델 요약문을 활용한 문서 요약 방법](-)|||안제준|
+|[221104](-)|[ESimCSE: Enhanced Sample Building Method for Contrastive Learning of Unsupervised Sentence Embedding](https://arxiv.org/abs/2109.04380)|2022-09-12|COLING 2022|윤예준|
+|[221104](-)|[Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings](https://arxiv.org/abs/2209.07494)|2022-09-15|COLING 2022|정시열|
+|[221104](-)|[Why Is It Hate Speech? Masked Rationale Prediction for Explainable Hate Speech Detection](https://arxiv.org/pdf/2211.00243.pdf)|2022-11-01|COLING 2022|박채원|
 |[220930](https://github.com/ssu-humane/Seminar/blob/main/220930_%EB%85%BC%EB%AC%B8_%EC%95%88%EC%A0%9C%EC%A4%80.pdf)|[BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf)|2019-10-29|ACL 2020|안제준|
 |[220916](https://github.com/ssu-humane/Seminar/blob/main/220918_%EB%85%BC%EB%AC%B8_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722.pdf)|2019-11-13|IEEE/CVF|윤예준|
 |[220819](https://github.com/ssu-humane/Seminar/blob/main/220819_%EB%85%BC%EB%AC%B8_%EB%B0%95%EC%82%B0%EC%95%BC.pdf)|[Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence](https://arxiv.org/pdf/1903.09588.pdf)|2019-03-22|NAACL|박산야|
