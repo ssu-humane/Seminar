@@ -8,8 +8,7 @@ Top Conferences 발표된 논문을 매주 한 명의 발표자가 발표를 진
 
 |발표 날짜|제목|발행 날짜|Venue|발제자|
 |----|----|----|----|----|
-|[221118](https://github.com/ssu-humane/Seminar/blob/main/221118_%EB%85%BC%EB%AC%B8_%EB%B0%95%EC%B1%84%EC%9B%90.pdf)|[Improving Generalizability in Implicitly 
-Abusive Language Detection with Concept Activation Vectors](https://arxiv.org/pdf/2204.02261.pdf)|2022-04-05|ACL 2022|박채원|
+|[221118](https://github.com/ssu-humane/Seminar/blob/main/221118_%EB%85%BC%EB%AC%B8_%EB%B0%95%EC%B1%84%EC%9B%90.pdf)|[Improving Generalizability in Implicitly Abusive Language Detection with Concept Activation Vectors](https://arxiv.org/pdf/2204.02261.pdf)|2022-04-05|ACL 2022|박채원|
 |[221104](https://github.com/ssu-humane/Seminar/blob/main/221104_COLING%EB%85%BC%EB%AC%B8_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[ESimCSE: Enhanced Sample Building Method for Contrastive Learning of Unsupervised Sentence Embedding](https://arxiv.org/abs/2109.04380)|2022-09-12|COLING 2022|윤예준|
 |[221104](https://github.com/ssu-humane/Seminar/blob/main/221104_COLING%EB%85%BC%EB%AC%B8_%EC%A0%95%EC%8B%9C%EC%97%B4.pdf)|[Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings](https://arxiv.org/abs/2209.07494)|2022-09-15|COLING 2022|정시열|
 |[221104](https://github.com/ssu-humane/Seminar/blob/main/221104_COLING%EB%85%BC%EB%AC%B8_%EB%B0%95%EC%B1%84%EC%9B%90.pdf)|[Why Is It Hate Speech? Masked Rationale Prediction for Explainable Hate Speech Detection](https://arxiv.org/pdf/2211.00243.pdf)|2022-11-01|COLING 2022|박채원|
