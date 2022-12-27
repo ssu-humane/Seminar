@@ -1,7 +1,7 @@
 📃 Seminar
 ===========
-- Top Conferences에 발표된 자연어 처리 관련 논문을 통해 연구 동향을 살펴보고자하는 목적의 세미나입니다.
-- 발표 날짜를 클릭하면 발표 자료로, 논문 제목을 클릭하면 논문 pdf로 접근 가능합니다.
+- NLP Top Conferences에 발표된 논문을 함께 공부함으로써 해당 분야 연구 동향을 살펴보고자 함
+*발표 날짜를 클릭하면 발표 자료로, 논문 제목을 클릭하면 해당 논문 pdf로 접근 가능합니다.
 
 |발표 날짜|제목|발행 날짜|Venue|발제자|
 |----|----|----|----|----|
@@ -40,7 +40,6 @@
 |[210730](https://github.com/ssu-humane/Seminar/blob/main/2021/0730_%EB%85%BC%EB%AC%B8_%EC%9D%B4%EC%83%81%EC%9C%A4.pdf)|[HATECHECK: Functional Tests for Hate Speech Detection Models](https://aclanthology.org/2021.acl-long.4.pdf)|2021-05-27|ACL|이상윤|
 
 ---
-Top Conferences에 발표된 자연어 처리 관련 논문을 통해 연구 동향을 살펴보고자하는 목적의 세미나입니다.
 <br><br>
 - 세미나 진행
   - 세미나는 격주로 금요일마다 진행
