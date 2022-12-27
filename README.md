@@ -41,7 +41,6 @@
 |[210730](https://github.com/ssu-humane/Seminar/blob/main/2021/0730_%EB%85%BC%EB%AC%B8_%EC%9D%B4%EC%83%81%EC%9C%A4.pdf)|[HATECHECK: Functional Tests for Hate Speech Detection Models](https://aclanthology.org/2021.acl-long.4.pdf)|2021-05-27|ACL|이상윤|
 
 ---
-<br><br>
 - 세미나 진행
   - 세미나는 격주로 금요일마다 진행
 <br><br>
