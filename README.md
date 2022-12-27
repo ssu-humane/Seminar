@@ -1,20 +1,5 @@
 📃 Seminar
 ===========
-Top Conferences에 발표된 자연어 처리 관련 논문을 통해 연구 동향을 살펴보고자하는 목적의 세미나입니다.
-<br><br>
-- 세미나 진행
-  - 세미나는 격주로 금요일마다 진행
-<br><br>
-- 발제자 선정
-  - 랩원 모두 순서대로 돌아가며 발제자로 지정
-<br><br>
-- 발제 준비
-  - 발제자가 관심있는 주제의 논문 및 연구를 선정해 세미나 전 주 월요일에 공지하고, 세미나에 참석하는 모든 이는 해당 논문에 대한 충분한 이해가 필요
-<br><br>
-- 발제
-  - 발제자가 준비해 온 논문 설명을 듣고 서로의 의견을 나누며 해당 논문에 대한 토론 진행
-
----
 - 발표 날짜를 클릭하면 발표 자료로, 논문 제목을 클릭하면 논문 pdf로 접근 가능합니다.
 
 |발표 날짜|제목|발행 날짜|Venue|발제자|
@@ -52,3 +37,18 @@ Top Conferences에 발표된 자연어 처리 관련 논문을 통해 연구 동
 |[210813](https://github.com/ssu-humane/Seminar/blob/main/2021/0813_%EB%85%BC%EB%AC%B8_%EC%B5%9C%ED%98%9C%EC%9B%90.pdf)|[Changes in European Solidarity Before and During COVID-19: Evidence from a Large Crowd- and Expert-Annotated Twitter Dataset](https://arxiv.org/pdf/2108.01042.pdf)|2021-08-02|ACL|최혜원|
 |[210806](https://github.com/ssu-humane/Seminar/blob/main/2021/0806_%EB%85%BC%EB%AC%B8_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[Ruddit: Norms of Offensiveness for English Reddit Comments](https://arxiv.org/pdf/2106.05664.pdf)|2021-06-11|ACL|윤예준|
 |[210730](https://github.com/ssu-humane/Seminar/blob/main/2021/0730_%EB%85%BC%EB%AC%B8_%EC%9D%B4%EC%83%81%EC%9C%A4.pdf)|[HATECHECK: Functional Tests for Hate Speech Detection Models](https://aclanthology.org/2021.acl-long.4.pdf)|2021-05-27|ACL|이상윤|
+
+---
+Top Conferences에 발표된 자연어 처리 관련 논문을 통해 연구 동향을 살펴보고자하는 목적의 세미나입니다.
+<br><br>
+- 세미나 진행
+  - 세미나는 격주로 금요일마다 진행
+<br><br>
+- 발제자 선정
+  - 랩원 모두 순서대로 돌아가며 발제자로 지정
+<br><br>
+- 발제 준비
+  - 발제자가 관심있는 주제의 논문 및 연구를 선정해 세미나 전 주 월요일에 공지하고, 세미나에 참석하는 모든 이는 해당 논문에 대한 충분한 이해가 필요
+<br><br>
+- 발제
+  - 발제자가 준비해 온 논문 설명을 듣고 서로의 의견을 나누며 해당 논문에 대한 토론 진행
