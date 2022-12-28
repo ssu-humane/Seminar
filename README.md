@@ -7,6 +7,7 @@ NLP Top Conferences에 발표된 논문을 함께 공부함으로써 해당 분�
 
 |발표 날짜|제목|발행 날짜|Venue|발제자|
 |----|----|----|----|----|
+|[221227](https://github.com/ssu-humane/Seminar/blob/main/2022/221227_%EB%85%BC%EB%AC%B8_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[InfoCSE: Information-aggregated Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2210.06432.pdf)|2022-10-08|EMNLP 2022|윤예준|
 |[221202](https://github.com/ssu-humane/Seminar/blob/main/2022/221202_%EB%85%BC%EB%AC%B8_%EC%86%A1%EC%84%A0%EC%98%81.pdf)|[Self-Guided Contrastive Learning for BERT Sentence Representations](https://arxiv.org/pdf/2106.07345.pdf)|2021-06-03|ACL 2021|송선영|
 |[221118](https://github.com/ssu-humane/Seminar/blob/main/2022/221118_%EB%85%BC%EB%AC%B8_%EC%A0%95%EC%8B%9C%EC%97%B4.pdf)|[How to get Metaphor Concept Mapping]()|||정시열|
 |[221118](https://github.com/ssu-humane/Seminar/blob/main/2022/221118_%EB%85%BC%EB%AC%B8_%EB%B0%95%EC%B1%84%EC%9B%90.pdf)|[Improving Generalizability in Implicitly Abusive Language Detection with Concept Activation Vectors](https://arxiv.org/pdf/2204.02261.pdf)|2022-04-05|ACL 2022|박채원|
