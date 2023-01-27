@@ -7,7 +7,7 @@ NLP Top Conferences에 발표된 논문을 함께 공부함으로써 해당 분�
 
 |발표 날짜|제목|발행 날짜|Venue|발제자|
 |----|----|----|----|----|
-|[230125](https://github.com/ssu-humane/Seminar/blob/main/2022/230103_%EB%85%BC%EB%AC%B8_%EC%95%88%EC%A0%9C%EC%A4%80.pdf)|[Hie-BART: Document Summarization with Hierarchical BART](https://aclanthology.org/2021.naacl-srw.20.pdf)|2022-05-22|NAACL 2021|안제준|
+|[230125](https://github.com/ssu-humane/Seminar/blob/main/2022/230103_%EB%85%BC%EB%AC%B8_%EC%95%88%EC%A0%9C%EC%A4%80.pdf)|[Hie-BART: Document Summarization with Hierarchical BART](https://aclanthology.org/2021.naacl-srw.20.pdf)|2021-07|NAACL 2021|안제준|
 |[230117](https://github.com/ssu-humane/Seminar/blob/main/2022/230103_%EB%85%BC%EB%AC%B8_%EC%95%88%EC%A0%9C%EC%A4%80.pdf)|[Debiased Contrastive Learning of Unsupervised Sentence Representations](https://arxiv.org/pdf/2205.00656.pdf)|2022-05-22|ACL 2022|송선영|
 |[230110](https://github.com/ssu-humane/Seminar/blob/main/2022/230103_%EB%85%BC%EB%AC%B8_%EC%95%88%EC%A0%9C%EC%A4%80.pdf)|[Use All The Labels: A Hierarchical Multi-Label Contrastive Learning Framework](https://arxiv.org/pdf/2204.13207.pdf)|2022-04-27|CVPR 2022|정시열|
 |[230103](https://github.com/ssu-humane/Seminar/blob/main/2022/230103_%EB%85%BC%EB%AC%B8_%EC%95%88%EC%A0%9C%EC%A4%80.pdf)|[Fine-tune BERT for Extractive Summarization](https://arxiv.org/pdf/1903.10318.pdf)|2019-03-25||안제준|
