@@ -7,6 +7,7 @@ NLP Top Conferences에 발표된 논문을 함께 공부함으로써 해당 분�
 
 |발표 날짜|제목|발행 날짜|Venue|발제자|
 |----|----|----|----|----|
+|[230217](https://github.com/ssu-humane/Seminar/blob/main/2023/230210_%EB%85%BC%EB%AC%B8_%EB%B0%95%EC%B1%84%EC%9B%90.pdf)|[English Contrastive Learning Can Learn Universal Cross-lingual Sentence Embeddings](https://arxiv.org/pdf/2211.06127.pdf)|2022-11-11|EMNLP 2022|송선영|
 |[230210](https://github.com/ssu-humane/Seminar/blob/main/2023/230210_%EB%85%BC%EB%AC%B8_%EB%B0%95%EC%B1%84%EC%9B%90.pdf)|[APEACH: Attacking Pejorative Expressions with Analysis on Crowd-Generated Hate Speech Evaluation Datasets](https://arxiv.org/pdf/2202.12459.pdf)|2022-10-25|EMNLP 2022|박채원|
 |[230203](https://github.com/ssu-humane/Seminar/blob/main/2023/230203_%EB%85%BC%EB%AC%B8_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[Optimizing Bi-Encoder for Named Entity Recognition via Contrastive Learning](https://arxiv.org/pdf/2208.14565.pdf)|2022-08-30|ICLR 2023|윤예준|
 |[230125](https://github.com/ssu-humane/Seminar/blob/main/2022/230103_%EB%85%BC%EB%AC%B8_%EC%95%88%EC%A0%9C%EC%A4%80.pdf)|[Hie-BART: Document Summarization with Hierarchical BART](https://aclanthology.org/2021.naacl-srw.20.pdf)|2021-07|NAACL 2021|안제준|
