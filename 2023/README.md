@@ -7,8 +7,8 @@ NLP Top Conferences에 발표된 논문을 함께 공부함으로써 해당 분�
 
 |발표 날짜|제목|발행 날짜|Venue|발제자|
 |----|----|----|----|----|
-|[2300407](https://github.com/ssu-humane/Seminar/blob/main/2023/230407_논문_윤예준.pdf)|[Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/pdf/2107.07651.pdf)|2021|NeurlPS|윤예준|
-|[2300407](https://github.com/ssu-humane/Seminar/blob/main/2023/230407_논문_김한성.pdf)|[InfoCSE:Information-aggregated Contrastive Learning](https://arxiv.org/pdf/2210.06432.pdf)|2022|EMNLP|김한성|
+|[230407](https://github.com/ssu-humane/Seminar/blob/main/2023/230407_논문_윤예준.pdf)|[Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/pdf/2107.07651.pdf)|2021|NeurlPS|윤예준|
+|[230407](https://github.com/ssu-humane/Seminar/blob/main/2023/230407_논문_김한성.pdf)|[InfoCSE:Information-aggregated Contrastive Learning](https://arxiv.org/pdf/2210.06432.pdf)|2022|EMNLP|김한성|
 |[230324](https://github.com/ssu-humane/Seminar/blob/main/2023/230324_논문_윤예준.pdf)|[BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf)|2022|ICML|윤예준|
 |[230324](https://github.com/ssu-humane/Seminar/blob/main/2023/230324_논문_송선영.pdf)|[Unsupervised Dense Information Retrieval with Contrastive Learning](https://arxiv.org/pdf/2112.09118.pdf)|2022|TMLR|송선영|
 |[230324](https://github.com/ssu-humane/Seminar/blob/main/2023/230324_논문_김한성.pdf)|[A Survey on Automated Fact-checking](https://arxiv.org/pdf/2108.11896.pdf)|2022|TACL|김한성|
