@@ -7,6 +7,9 @@ NLP Top Conferences에 발표된 논문을 함께 공부함으로써 해당 분�
 
 |발표 날짜|제목|발행 날짜|Venue|발제자|
 |----|----|----|----|----|
+|[230713](https://github.com/ssu-humane/Seminar/blob/main/2023/230713_논문_박채원.pdf)|[How Language Model Hallucinations Can Snowball](https://arxiv.org/pdf/2305.13534.pdf)|||박채원|
+|[230706](https://github.com/ssu-humane/Seminar/blob/main/2023/230706_논문_송선영.pdf)|[On the Risk of Misinformation Pollution with Large Language Models](https://arxiv.org/pdf/2305.13661.pdf)|||송선영|
+|[230602](https://github.com/ssu-humane/Seminar/blob/main/2023/230602_논문_김한성.pdf)|[CONCRETE: Improving Cross-lingual Fact-checking with Cross-lingual Retrieval](https://aclanthology.org/2022.coling-1.86.pdf)|2022|COLING|김한성|
 |[230407](https://github.com/ssu-humane/Seminar/blob/main/2023/230407_논문_윤예준.pdf)|[Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/pdf/2107.07651.pdf)|2021|NeurlPS|윤예준|
 |[230407](https://github.com/ssu-humane/Seminar/blob/main/2023/230407_논문_김한성.pdf)|[InfoCSE:Information-aggregated Contrastive Learning](https://arxiv.org/pdf/2210.06432.pdf)|2022|EMNLP|김한성|
 |[230324](https://github.com/ssu-humane/Seminar/blob/main/2023/230324_논문_윤예준.pdf)|[BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf)|2022|ICML|윤예준|
