@@ -5,7 +5,7 @@ NLP/AI Top Conferences에 발표된 논문을 함께 공부함으로써 해당 �
 ❗  발표 날짜를 클릭하면 발표 자료로, 논문 제목을 클릭하면 해당 논문 pdf로 접근 가능합니다 :)
 <br><br>
 
-|발표 날짜|제목|발행 날짜|Venue|발제자|
+|발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
 |[230810](https://github.com/ssu-humane/Seminar/blob/main/2023/230810_논문_정현우.pdf)|[Do Androids Laugh at Electric Sheep? Humor “Understanding” Benchmarks from The New Yorker Caption Contest](https://arxiv.org/pdf/2209.06293.pdf)|2023-07|ACL|정현우|
 |[230713](https://github.com/ssu-humane/Seminar/blob/main/2023/230713_논문_박채원.pdf)|[How Language Model Hallucinations Can Snowball](https://arxiv.org/pdf/2305.13534.pdf)|2023-05|preprint|박채원|
