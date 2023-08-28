@@ -9,18 +9,18 @@ NLP/AI Top Conferences에 발표된 논문을 함께 공부함으로써 해당 �
 |----|----|----|----|----|
 |[230817](https://github.com/ssu-humane/Seminar/blob/main/2023/230817_%EB%85%BC%EB%AC%B8_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models](https://aclanthology.org/2023.acl-long.656.pdf)|2023-07|ACL|윤예준|
 |[230810](https://github.com/ssu-humane/Seminar/blob/main/2023/230810_논문_정현우.pdf)|[Do Androids Laugh at Electric Sheep? Humor “Understanding” Benchmarks from The New Yorker Caption Contest](https://arxiv.org/pdf/2209.06293.pdf)|2023-07|ACL|정현우|
-|[230808]()|[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)|2023-05|preprint|박채원|
-|[230807]()|[LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)|2023-05|preprint|박채원|
-|[230804]()|[Self-Instruct: Aligning Language Model with Self Generated Instructions](https://aclanthology.org/2023.acl-long.754.pdf)|2023-05|preprint|박채원|
-|[230803]()|[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)|2023-05|preprint|박채원|
-|[230802]()|[PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)|2023-05|preprint|박채원|
-|[230801]()|[LaMDA: Language Models for Dialog Applications](https://arxiv.org/abs/2201.08239)|2023-05|preprint|박채원|
-|[230731]()|[Training language models to follow instructions with human feedback](https://cdn.openai.com/papers/Training_language_models_to_follow_instructions_with_human_feedback.pdf)|2023-05|preprint|박채원|
-|[230728]()|[Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)|2023-05|preprint|박채원|
-|[230727]()|[Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)|2023-05|preprint|박채원|
-|[230726]()|[Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)|2023-05|preprint|박채원|
-|[230725]()|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805v2.pdf)|2023-05|preprint|박채원|
-|[230724]()|[Attention is all you need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)|2023-05|preprint|박채원|
+|[230808]()|[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)|2023-05|preprint|김한성|
+|[230807]()|[LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)|2023-05|preprint|윤예준|
+|[230804]()|[Self-Instruct: Aligning Language Model with Self Generated Instructions](https://aclanthology.org/2023.acl-long.754.pdf)|2023-05|preprint|송선영|
+|[230803]()|[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)|2023-05|preprint|박건우 교수님|
+|[230802]()|[PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)|2023-05|preprint|김한성|
+|[230801]()|[LaMDA: Language Models for Dialog Applications](https://arxiv.org/abs/2201.08239)|2023-05|preprint|윤예준|
+|[230731]()|[Training language models to follow instructions with human feedback](https://cdn.openai.com/papers/Training_language_models_to_follow_instructions_with_human_feedback.pdf)|2023-05|preprint|송선영|
+|[230728]()|[Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)|2023-05|preprint|박건우 교수님|
+|[230727]()|[Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)|2023-05|preprint|김한성|
+|[230726]()|[Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)|2023-05|preprint|윤예준|
+|[230725]()|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805v2.pdf)|2023-05|preprint|송선영|
+|[230724]()|[Attention is all you need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)|2023-05|preprint|박건우 교수님|
 |[230713](https://github.com/ssu-humane/Seminar/blob/main/2023/230713_논문_박채원.pdf)|[How Language Model Hallucinations Can Snowball](https://arxiv.org/pdf/2305.13534.pdf)|2023-05|preprint|박채원|
 |[230706](https://github.com/ssu-humane/Seminar/blob/main/2023/230706_논문_송선영.pdf)|[On the Risk of Misinformation Pollution with Large Language Models](https://arxiv.org/pdf/2305.13661.pdf)|2023-05|preprint|송선영|
 |[230602](https://github.com/ssu-humane/Seminar/blob/main/2023/230602_논문_김한성.pdf)|[CONCRETE: Improving Cross-lingual Fact-checking with Cross-lingual Retrieval](https://aclanthology.org/2022.coling-1.86.pdf)|2022-10|COLING|김한성|
