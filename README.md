@@ -7,6 +7,7 @@ NLP/AI Top Conferences에 발표된 논문을 함께 공부함으로써 해당 �
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
+|[230817]()|[From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models](https://aclanthology.org/2023.acl-long.656.pdf)|2023-07|ACL|윤예준|
 |[230810](https://github.com/ssu-humane/Seminar/blob/main/2023/230810_논문_정현우.pdf)|[Do Androids Laugh at Electric Sheep? Humor “Understanding” Benchmarks from The New Yorker Caption Contest](https://arxiv.org/pdf/2209.06293.pdf)|2023-07|ACL|정현우|
 |[230713](https://github.com/ssu-humane/Seminar/blob/main/2023/230713_논문_박채원.pdf)|[How Language Model Hallucinations Can Snowball](https://arxiv.org/pdf/2305.13534.pdf)|2023-05|preprint|박채원|
 |[230706](https://github.com/ssu-humane/Seminar/blob/main/2023/230706_논문_송선영.pdf)|[On the Risk of Misinformation Pollution with Large Language Models](https://arxiv.org/pdf/2305.13661.pdf)|2023-05|preprint|송선영|
