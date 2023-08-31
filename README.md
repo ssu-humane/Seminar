@@ -7,6 +7,7 @@ NLP/AI Top Conferences에 발표된 논문을 함께 공부함으로써 해당 �
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
+|[230831](https://github.com/ssu-humane/Seminar/blob/main/2023/230831_논문_김한성.pdf)|[Fact-Checking Complex Claims with Program-Guided Reasoning](https://aclanthology.org/2023.acl-long.386.pdf)|2023-07|ACL|김한성|
 |[230817](https://github.com/ssu-humane/Seminar/blob/main/2023/230817_%EB%85%BC%EB%AC%B8_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models](https://aclanthology.org/2023.acl-long.656.pdf)|2023-07|ACL|윤예준|
 |[230810](https://github.com/ssu-humane/Seminar/blob/main/2023/230810_논문_정현우.pdf)|[Do Androids Laugh at Electric Sheep? Humor “Understanding” Benchmarks from The New Yorker Caption Contest](https://arxiv.org/pdf/2209.06293.pdf)|2023-07|ACL|정현우|
 |[230808]()|[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)|2023-07|preprint|김한성|
