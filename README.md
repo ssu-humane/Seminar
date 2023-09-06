@@ -1,5 +1,8 @@
 📃 Seminar
 ===========
+
+Our research group has a weekly or bi-weekly seminar to follow up on recent studies on AI and NLP.
+
 NLP/AI Top Conferences에 발표된 논문을 함께 공부함으로써 해당 분야 연구 동향을 살펴보고자 합니다.
 <br><br>
 ❗  발표 날짜를 클릭하면 발표 자료로, 논문 제목을 클릭하면 해당 논문 pdf로 접근 가능합니다 :)
