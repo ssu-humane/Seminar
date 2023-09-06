@@ -77,16 +77,4 @@ NLP/AI Top Conferences에 발표된 논문을 함께 공부함으로써 해당 �
 |[210806](https://github.com/ssu-humane/Seminar/blob/main/2021/210806_%EB%85%BC%EB%AC%B8_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[Ruddit: Norms of Offensiveness for English Reddit Comments](https://arxiv.org/pdf/2106.05664.pdf)|2021-06|ACL|윤예준|
 |[210730](https://github.com/ssu-humane/Seminar/blob/main/2021/210730_%EB%85%BC%EB%AC%B8_%EC%9D%B4%EC%83%81%EC%9C%A4.pdf)|[HATECHECK: Functional Tests for Hate Speech Detection Models](https://aclanthology.org/2021.acl-long.4.pdf)|2021-05|ACL|이상윤|
 
----
-- 세미나 진행
-  - 세미나는 격주로 금요일마다 진행
-  - 방학 기간엔 매주 화요일 10시에 랩스터디와 함께 진행
-<br><br>
-- 발제자 선정
-  - 랩원 모두 순서대로 돌아가며 발제자로 지정
-<br><br>
-- 발제 준비
-  - 발제자가 관심있는 주제의 논문 및 연구를 선정해 세미나 전 주 월요일에 공지하고, 세미나에 참석하는 모든 이는 해당 논문에 대한 충분한 이해가 필요
-<br><br>
-- 발제
-  - 발제자가 준비해 온 논문 설명을 듣고 서로의 의견을 나누며 해당 논문에 대한 토론 진행
+
