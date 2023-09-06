@@ -1,7 +1,8 @@
 📃 Seminar
 ===========
 
-Our research group has a weekly or bi-weekly seminar to follow up on recent studies on AI and NLP.
+Our research group has a weekly or bi-weekly seminar to follow up on recent studies on AI and NLP. 
+Below is the list of discussed papers and presentation materials (in Korean).
 
 NLP/AI Top Conferences에 발표된 논문을 함께 공부함으로써 해당 분야 연구 동향을 살펴보고자 합니다.
 <br><br>
