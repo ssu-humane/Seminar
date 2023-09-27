@@ -5,7 +5,7 @@ Our research group has a weekly or bi-weekly seminar to follow up on recent stud
 
 Below is the list of discussed papers and presentation materials (in Korean).
 
-매주, 격주 세미나를 통해 NLP/AI Top Conferences에 발표된 논문을 리뷰하며 관심 분야 연구 동향을 살펴봅니다.
+매주, 격주 세미나를 통해 NLP/AI Top Conferences에 발표된 논문을 리뷰하며 연구 동향을 살펴봅니다.
 
 ❗  발표 날짜를 클릭하면 발표 자료로, 논문 제목을 클릭하면 해당 논문 pdf로 접근 가능합니다 :)
 
