@@ -12,6 +12,9 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
+|[230926]()|[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)|2021-06|preprint|윤예준|
+|[230926]()|[QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)|2023-05|preprint|윤예준| 
+|[230926]()|[Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/pdf/2205.05638.pdf)|2022-05|NeurIPS 2022|윤예준|
 |[230919](https://github.com/ssu-humane/Seminar/blob/main/2023/230919_%EB%85%BC%EB%AC%B8_%EC%A0%95%ED%98%84%EC%9A%B0.pdf)|[A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT](https://arxiv.org/pdf/2303.04226.pdf)|2023-03|preprint|정현우|
 |[230831](https://kunwpark.notion.site/End-to-End-Multimodal-Fact-Checking-and-Explanation-Generation-A-Challenging-Dataset-and-Models-a07b1a24fd4a496d9d0aa05fa96bb2d7)|[End-to-End Multimodal Fact-Checking and Explanation Generation: A Challenging Dataset and Models](https://dl.acm.org/doi/pdf/10.1145/3539618.3591879)|2023-07|SIGIR|박건우 교수님|
 |[230831](https://github.com/ssu-humane/Seminar/blob/main/2023/230831_논문_김한성.pdf)|[Fact-Checking Complex Claims with Program-Guided Reasoning](https://aclanthology.org/2023.acl-long.386.pdf)|2023-07|ACL|김한성|
