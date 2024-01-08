@@ -12,7 +12,7 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
-|[240109](https://github.com/ssu-humane/Seminar/blob/main/2023/231121_%EB%85%BC%EB%AC%B8_%EC%A0%95%ED%98%84%EC%9A%B0.pdf)|[SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization](https://arxiv.org/pdf/2212.10465.pdf)|2023-12|EMNLP|정현우|
+|[240109](https://github.com/ssu-humane/Seminar/blob/main/2024/240109_%EB%85%BC%EB%AC%B8%EB%B0%9C%EC%A0%9C_%EC%A0%95%ED%98%84%EC%9A%B0.pdf)|[SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization](https://arxiv.org/pdf/2212.10465.pdf)|2023-12|EMNLP|정현우|
 |[231121](https://github.com/ssu-humane/Seminar/blob/main/2023/231121_%EB%85%BC%EB%AC%B8_%EC%A0%95%ED%98%84%EC%9A%B0.pdf)|[High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf)|2022-04|CVPR|정현우|
 |[230926](https://github.com/ssu-humane/Seminar/blob/main/2023/230926_%EB%85%BC%EB%AC%B8_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)|2021-06|preprint|윤예준|
 |[230926](https://github.com/ssu-humane/Seminar/blob/main/2023/230926_%EB%85%BC%EB%AC%B8_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)|2023-05|preprint|윤예준| 
