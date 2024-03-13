@@ -12,6 +12,10 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
+|[240227]()|[Stance Classification of Context-Dependent Claims](https://aclanthology.org/E17-1024.pdf)|2017|EACL|이다현|
+|[240227]()|[Attention on Attention for Image Captioning](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Attention_on_Attention_for_Image_Captioning_ICCV_2019_paper.pdf)|2018|ICCV |이상민|
+|[240220]()|[IAM: A Comprehensive and Large-Scale Dataset for Integrated Argument Mining Tasks](https://arxiv.org/abs/2203.12257)|2022|ACL|이다현|
+|[240220]()|[Visual News: Benchmark and Challenges in News Image Captioning](https://arxiv.org/abs/2010.03743)|2021|EMNLP|이상민|
 |[240213](https://github.com/ssu-humane/Seminar/blob/main/2024/240213_%EB%85%BC%EB%AC%B8%EB%B0%9C%EC%A0%9C_%EC%9D%B4%EC%83%81%EB%AF%BC.pdf)|[Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning](https://aclanthology.org/P18-1238.pdf)|2018|ACL|이상민|
 |[240206](https://github.com/ssu-humane/Seminar/blob/main/2024/240206_%EB%85%BC%EB%AC%B8%EB%B0%9C%EC%A0%9C_%EC%A0%95%ED%98%84%EC%9A%B0.pdf)|[PaperMage: A Unified Toolkit for Processing, Representing, and Manipulating Visually-Rich Scientific Documents](https://aclanthology.org/2023.emnlp-demo.45.pdf)|2023|EMNLP|정현우|
 |[240123](https://github.com/ssu-humane/Seminar/blob/main/2024/20240123_%EB%85%BC%EB%AC%B8%EB%B0%9C%EC%A0%9C_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[Open-Domain, Content-Based, Multi-Modal Fact-Checking of Out-of-Context Images via Online Resources](https://openaccess.thecvf.com/content/CVPR2022/papers/Abdelnabi_Open-Domain_Content-Based_Multi-Modal_Fact-Checking_of_Out-of-Context_Images_via_Online_Resources_CVPR_2022_paper.pdf)|2022|CVPR|윤예준|
