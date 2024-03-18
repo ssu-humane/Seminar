@@ -12,7 +12,7 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
-|[240315]()|[RA-CLIP: Retrieval Augmented Contrastive Language-Image Pre-Training](https://openaccess.thecvf.com/content/CVPR2023/html/Xie_RA-CLIP_Retrieval_Augmented_Contrastive_Language-Image_Pre-Training_CVPR_2023_paper.html)|2023|CVPR|윤예준|
+|[240315](https://github.com/ssu-humane/Seminar/blob/main/2024/240315_%EB%85%BC%EB%AC%B8%EB%B0%9C%EC%A0%9C_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[RA-CLIP: Retrieval Augmented Contrastive Language-Image Pre-Training](https://openaccess.thecvf.com/content/CVPR2023/html/Xie_RA-CLIP_Retrieval_Augmented_Contrastive_Language-Image_Pre-Training_CVPR_2023_paper.html)|2023|CVPR|윤예준|
 |[240227](https://github.com/ssu-humane/Seminar/blob/main/2024/240227_%EB%85%BC%EB%AC%B8%EB%B0%9C%EC%A0%9C_%EC%9D%B4%EB%8B%A4%ED%98%84.pdf)|[Stance Classification of Context-Dependent Claims](https://aclanthology.org/E17-1024.pdf)|2017|EACL|이다현|
 |[240227](https://github.com/ssu-humane/Seminar/blob/main/2024/240227_%EB%85%BC%EB%AC%B8%EB%B0%9C%EC%A0%9C_%EC%9D%B4%EC%83%81%EB%AF%BC.pdf)|[Attention on Attention for Image Captioning](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Attention_on_Attention_for_Image_Captioning_ICCV_2019_paper.pdf)|2018|ICCV |이상민|
 |[240220](https://github.com/ssu-humane/Seminar/blob/main/2024/240220_%EB%85%BC%EB%AC%B8%EB%B0%9C%EC%A0%9C_%EC%9D%B4%EB%8B%A4%ED%98%84.pdf)|[IAM: A Comprehensive and Large-Scale Dataset for Integrated Argument Mining Tasks](https://arxiv.org/pdf/2203.12257.pdf)|2022|ACL|이다현|
