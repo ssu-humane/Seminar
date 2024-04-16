@@ -12,6 +12,7 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
+|[240408](https://github.com/ssu-humane/Seminar/blob/main/2024/240408_%EB%85%BC%EB%AC%B8%EB%B0%9C%EC%A0%9C_%EC%9D%B4%EB%8B%A4%ED%98%84.pdf)|[Improving Factuality and Reasoning in Language Models through Multiagent Debate](https://arxiv.org/pdf/2305.14325.pdf)|2023-05|preprint|이다현|
 |[240401](https://github.com/ssu-humane/Seminar/blob/main/2024/240401_%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A6_%E1%84%89%E1%85%A9%E1%86%BC%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC.pdf)|[Chain-of-Verification Reduces Hallucination in Large Language Models](https://arxiv.org/pdf/2309.11495.pdf)|2023-09|preprint|송선영|
 |[240315](https://github.com/ssu-humane/Seminar/blob/main/2024/240315_%EB%85%BC%EB%AC%B8%EB%B0%9C%EC%A0%9C_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[RA-CLIP: Retrieval Augmented Contrastive Language-Image Pre-Training](https://openaccess.thecvf.com/content/CVPR2023/html/Xie_RA-CLIP_Retrieval_Augmented_Contrastive_Language-Image_Pre-Training_CVPR_2023_paper.html)|2023-06|CVPR|윤예준|
 |[240227](https://github.com/ssu-humane/Seminar/blob/main/2024/240227_%EB%85%BC%EB%AC%B8%EB%B0%9C%EC%A0%9C_%EC%9D%B4%EB%8B%A4%ED%98%84.pdf)|[Stance Classification of Context-Dependent Claims](https://aclanthology.org/E17-1024.pdf)|2017-04|EACL|이다현|
