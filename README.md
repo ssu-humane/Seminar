@@ -12,6 +12,7 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
+|[240701](https://github.com/ssu-humane/Seminar/blob/main/2024/20240701_Lost%20in%20the%20Middle_%20How%20Language%20Models%20Use%20Long%20Contexts_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[Lost in the Middle: How Language Models Use Long Contexts](https://transacl.org/ojs/index.php/tacl/article/view/5757)|2024-02|TACL|윤예준|
 |[240624](https://github.com/ssu-humane/Seminar/blob/main/2024/20240624_Large%20Language%20Models%20Can%20Self-Improve_%EC%9D%B4%EB%8B%A4%ED%98%84.pdf)|[Large Language Models Can Self-Improve](https://aclanthology.org/2023.emnlp-main.67.pdf)|2022-10|EMNLP|이다현|
 |[240603](https://github.com/ssu-humane/Seminar/blob/main/2024/20240603_Leveraging%20Passage%20Retrieval%20with%20Generative%20models%20for%20Open%20Domain%20Question%20Answering_%EC%86%A1%EC%84%A0%EC%98%81.pptx.pdf)|[Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://aclanthology.org/2021.eacl-main.74.pdf)|2020-07|EACL|송선영|
 |[240527](https://github.com/ssu-humane/Seminar/blob/main/2024/20240527_Retrieval-Augmented%20Generation%20for%20Knowledge-Intensive%20NLP%20Tasks_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401)|2020-05|NeurIPS|윤예준|
