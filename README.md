@@ -12,6 +12,12 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
+|[240906](https://github.com/ssu-humane/Seminar/blob/main/2024/20240906_Political%20Compass%20of%20Spinning%20Arrow_%20Towards%20More%20Meaningful%20Evaluations%20for%20Values%20and%20Opinions%20in%20Large%20Language%20Models_%EB%B0%95%ED%98%84%EB%B9%88.pdf)|[Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models](https://aclanthology.org/2024.acl-long.816.pdf)|2024-02|ACL|박현빈|
+|[240828]()|[Transitive Consistency Constrained Learning for Entity-to-Entity Stance Detection](https://aclanthology.org/2024.acl-long.80.pdf)|2024-01|ACL|이다현|
+|[240805](https://github.com/ssu-humane/Seminar/blob/main/2024/20240805_Precise%20Zero-Shot%20Dense%20Retrieval%20without%20Relevance%20Labels_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[Precise Zero-Shot Dense Retrieval without Relevance Labels](https://aclanthology.org/2023.acl-long.99/)|2023-07|ACL|윤예준|
+|[240729]()|[EZ-STANCE: A Large Dataset for Zero-Shot Stance Detection](https://arxiv.org/pdf/2311.08377)|2023-08|ACL|이다현|
+|[240715]()|[Learning to Filter Context for Retrieval-Augmented Generation](https://arxiv.org/pdf/2311.08377)|2023-11|preprint|이다현|
+|[240708](https://github.com/ssu-humane/Seminar/blob/main/2024/240708_Adaptive-RAG_%EC%86%A1%EC%84%A0%EC%98%81.pdf)|[Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://arxiv.org/pdf/2403.14403)|2024-03|NAACL|송선영|
 |[240701](https://github.com/ssu-humane/Seminar/blob/main/2024/20240701_Lost%20in%20the%20Middle_%20How%20Language%20Models%20Use%20Long%20Contexts_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[Lost in the Middle: How Language Models Use Long Contexts](https://transacl.org/ojs/index.php/tacl/article/view/5757)|2024-02|TACL|윤예준|
 |[240624](https://github.com/ssu-humane/Seminar/blob/main/2024/20240624_Large%20Language%20Models%20Can%20Self-Improve_%EC%9D%B4%EB%8B%A4%ED%98%84.pdf)|[Large Language Models Can Self-Improve](https://aclanthology.org/2023.emnlp-main.67.pdf)|2022-10|EMNLP|이다현|
 |[240603](https://github.com/ssu-humane/Seminar/blob/main/2024/20240603_Leveraging%20Passage%20Retrieval%20with%20Generative%20models%20for%20Open%20Domain%20Question%20Answering_%EC%86%A1%EC%84%A0%EC%98%81.pptx.pdf)|[Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://aclanthology.org/2021.eacl-main.74.pdf)|2020-07|EACL|송선영|
