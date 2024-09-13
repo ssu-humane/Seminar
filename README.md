@@ -12,6 +12,7 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
+|[240913](https://github.com/ssu-humane/Seminar/blob/main/2024/20240913_Factuality%20challenges%20in%20the%20era%20of%20large%20language%20models%20and%20opportunities%20for%20fact-checking_%EA%B3%A0%EA%B2%BD%EB%B9%88.pdf)|[Factuality challenges in the era of large language models and opportunities for fact-checking](https://arxiv.org/pdf/2310.05189)|2023-10|Nature Machine Intelligence|고경빈|
 |[240906](https://github.com/ssu-humane/Seminar/blob/main/2024/20240906_Political%20Compass%20of%20Spinning%20Arrow_%20Towards%20More%20Meaningful%20Evaluations%20for%20Values%20and%20Opinions%20in%20Large%20Language%20Models_%EB%B0%95%ED%98%84%EB%B9%88.pdf)|[Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models](https://aclanthology.org/2024.acl-long.816.pdf)|2024-02|ACL|박현빈|
 |[240828]()|[Transitive Consistency Constrained Learning for Entity-to-Entity Stance Detection](https://aclanthology.org/2024.acl-long.80.pdf)|2024-01|ACL|이다현|
 |[240805](https://github.com/ssu-humane/Seminar/blob/main/2024/20240805_Precise%20Zero-Shot%20Dense%20Retrieval%20without%20Relevance%20Labels_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[Precise Zero-Shot Dense Retrieval without Relevance Labels](https://aclanthology.org/2023.acl-long.99/)|2023-07|ACL|윤예준|
