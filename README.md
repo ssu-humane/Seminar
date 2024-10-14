@@ -12,6 +12,7 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
+|[241011](https://github.com/ssu-humane/Seminar/blob/main/2024/20241004_Can%20AI%20Assistants%20Know%20What%20They%20Don't%20Know_%EC%9C%A4%EC%98%88%EC%A4%80.pdf)|[Can AI Assistants Know What They Don't Know?](https://openreview.net/forum?id=girxGkdECL)|2024-01|ICML|윤예준|
 |[240927](https://github.com/ssu-humane/Seminar/blob/main/2024/20240927_R-Tuning_Instructing%20Large%20Language%20Models%20to%20Say%20%E2%80%98I%20don%E2%80%99t%20Know%E2%80%99_%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB.pdf)|[R-Tuning: Instructing Large Language Models to Say 'I Don't Know'](https://aclanthology.org/2024.naacl-long.394/)|2023-11|NAACL|최종현|
 |[240920](https://github.com/ssu-humane/Seminar/blob/main/2024/240920_Retrieval-Augmented%20Generation%20for%20Large%20Language%20Models_A%20Survey_%EA%B9%80%ED%83%9C%EA%B7%A0.pdf)|[Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997)|2023-12|preprint|김태균|
 |[240913](https://github.com/ssu-humane/Seminar/blob/main/2024/20240913_Factuality%20challenges%20in%20the%20era%20of%20large%20language%20models%20and%20opportunities%20for%20fact-checking_%EA%B3%A0%EA%B2%BD%EB%B9%88.pdf)|[Factuality challenges in the era of large language models and opportunities for fact-checking](https://arxiv.org/pdf/2310.05189)|2023-10|Nature Machine Intelligence|고경빈|
