@@ -12,6 +12,7 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
+|[241129](https://github.com/ssu-humane/Seminar/blob/main/2024/20241129_NVLM-%20Open%20Frontier-Class%20Multimodal%20LLMs_%EB%B0%95%ED%98%84%EB%B9%88.pptx.pdf)|[NVLM: Open Frontier-Class Multimodal LLMs](https://arxiv.org/pdf/2409.11402)|2024-09|preprint|박현빈|
 |[241108](https://github.com/ssu-humane/Seminar/blob/main/2024/20241105_Debating%20with%20More%20Persuasive%20LLMs%20Leads%20to%20More%20Truthful%20Answers_%EC%B5%9C%EC%A2%85%ED%98%84.pptx.pdf)|[Debating with More Persuasive LLMs Leads to More Truthful Answers](https://openreview.net/pdf?id=iLCZtl7FTa)|2024-05|ICML|최종현|
 |[241025](https://github.com/ssu-humane/Seminar/blob/main/2024/20241025_Self-RAG_%20Learning%20to%20Retrieve%2C%20Generate%2C%20and%20%20Critique%20through%20Self-Reflection_%EC%9C%A4%EC%98%88%EC%A4%80.pptx.pdf)|[Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://openreview.net/pdf?id=hSyW5go0v8)|2024-02|ICLR|윤예준|
 |[241018](https://github.com/ssu-humane/Seminar/blob/main/2024/20241018_On%20stance%20detection%20image%20retrieval_%EC%9D%B4%EB%8B%A4%ED%98%84.pdf)|[On Stance Detection in Image Retrieval for Argumentation](https://downloads.webis.de/publications/papers/carnot_2023.pdf)|2023-07|SIGIR|이다현|
