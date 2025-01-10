@@ -12,6 +12,7 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
+|[250103](https://github.com/ssu-humane/Seminar/blob/main/2024/20250103_Visual%20Instruction%20Tuning_%EB%B0%95%ED%98%84%EB%B9%88.pdf)|[Visual Instruction Tuning](https://proceedings.neurips.cc/paper_files/paper/2023/file/6dcf277ea32ce3288914faf369fe6de0-Paper-Conference.pdf)|2023-04|NeurIPS|박현빈|
 |[241227](https://github.com/ssu-humane/Seminar/blob/main/2024/20241227_NewsEdits_%20A%20News%20Article%20Revision%20Dataset%20and%20a%20Novel%20Document-Level%20Reasoning%20Challenge_%EC%B5%9C%EC%A2%85%ED%98%84.pdf)|[NewsEdits: A News Article Revision Dataset and Document-Level Reasoning Challenge](https://aclanthology.org/2022.naacl-main.10.pdf)|2022-06|NAACL|최종현|
 |[241213](https://github.com/ssu-humane/Seminar/blob/main/2024/20241213_Stanceformer-Target-Aware%20Transformer%20for%20Stance%20Detection_%EC%9D%B4%EB%8B%A4%ED%98%84.pptx.pdf)|[Stanceformer: Target-Aware Transformer for Stance Detection](https://aclanthology.org/2024.findings-emnlp.286.pdf)|2024-10|EMNLP|이다현|
 |[241129](https://github.com/ssu-humane/Seminar/blob/main/2024/20241129_NVLM-%20Open%20Frontier-Class%20Multimodal%20LLMs_%EB%B0%95%ED%98%84%EB%B9%88.pptx.pdf)|[NVLM: Open Frontier-Class Multimodal LLMs](https://arxiv.org/pdf/2409.11402)|2024-09|preprint|박현빈|
