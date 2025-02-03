@@ -12,6 +12,8 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
+
+|[250131](https://github.com/ssu-humane/Seminar/blob/main/2025/20250131_Memory%20Layers%20at%20Scale_%EA%B3%A0%EA%B2%BD%EB%B9%88.pdf)|[Memory Layers at Scale](https://ai.meta.com/research/publications/memory-layers-at-scale/)|2024-12|preprint|고경빈|
 |[250117](https://github.com/ssu-humane/Seminar/blob/main/2025/250117_LongRAG-A%20Dual-Perspective%20Retrieval-Augmented%20Generation%20Paradigm%20for%20Long-Context%20Question%20Answering_%EA%B9%80%ED%83%9C%EA%B7%A0.pdf)|[LongRAG: A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering](https://aclanthology.org/2024.emnlp-main.1259.pdf)|2024-10|EMNLP|김태균|
 |[250110](https://github.com/ssu-humane/Seminar/blob/main/2025/20250110_G-EVAL-NLG%20Evaluation%20using%20GPT-4%20with%20Better%20Human%20Alignment_%EA%B3%A0%EA%B2%BD%EB%B9%88.pdf)|[G-Eval: NLG Evaluation using Gpt-4 with Better Human Alignment](https://aclanthology.org/2023.emnlp-main.153/)|2023-03|EMNLP|고경빈|
 |[250103](https://github.com/ssu-humane/Seminar/blob/main/2025/20250103_Visual%20Instruction%20Tuning_%EB%B0%95%ED%98%84%EB%B9%88.pdf)|[Visual Instruction Tuning](https://proceedings.neurips.cc/paper_files/paper/2023/file/6dcf277ea32ce3288914faf369fe6de0-Paper-Conference.pdf)|2023-04|NeurIPS|박현빈|
