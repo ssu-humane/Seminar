@@ -12,6 +12,7 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
+|[250307](https://github.com/ssu-humane/Seminar/blob/main/2025/20250307_Native%20Sparse%20Attention-Hardware%20Aligned%20and%20Natively%20Trainable%20Sparse%20Attention_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%90%E1%85%A2%E1%84%80%E1%85%B2%E1%86%AB.pdf)|[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089)|2025-02|preprint|김태균|
 |[250228](https://github.com/ssu-humane/Seminar/blob/main/2025/20250228_HearHere_%E1%84%8B%E1%85%B5%E1%84%83%E1%85%A1%E1%84%92%E1%85%A7%E1%86%AB.pdf)|[HearHere: Mitigating Echo Chambers in News Consumption through an AI-based Web System](https://astlyi.s3.ap-northeast-2.amazonaws.com/2023/%5B104%5DHearHere.pdf)|2024-02|CSCW|이다현|
 |[250207](https://github.com/ssu-humane/Seminar/blob/main/2025/20250207_Titans%2C%20Learning%20to%20Memorize%20at%20Test%20Time_%E1%84%87%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A7%E1%86%AB%E1%84%87%E1%85%B5%E1%86%AB.pdf)|[Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)|2024-12|preprint|박현빈|
 |[250131](https://github.com/ssu-humane/Seminar/blob/main/2025/20250131_Memory%20Layers%20at%20Scale_%EA%B3%A0%EA%B2%BD%EB%B9%88.pdf)|[Memory Layers at Scale](https://ai.meta.com/research/publications/memory-layers-at-scale/)|2024-12|preprint|고경빈|
