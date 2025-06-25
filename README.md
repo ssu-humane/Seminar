@@ -12,6 +12,7 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
+|[250617](https://github.com/ssu-humane/Seminar/blob/main/2025/20250613_Creative%20Preferance%20Optimization_%E1%84%8B%E1%85%B5%E1%84%83%E1%85%A1%E1%84%92%E1%85%A7%E1%86%AB.pdf)|[Creative Preference Optimization](https://arxiv.org/abs/2505.14442)|2025-05|preprint|이다현|
 |[250516](https://github.com/ssu-humane/Seminar/blob/main/2025/20250516_Improving%20CLIP%20Training%20with%20Language%20Rewrites_%E1%84%87%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A7%E1%86%AB%E1%84%87%E1%85%B5%E1%86%AB.pdf)|[Improving CLIP Training with Language Rewrites](https://proceedings.neurips.cc/paper_files/paper/2023/file/6fa4d985e7c434002fb6289ab9b2d654-Paper-Conference.pdf)|2023-05|NeurIPS|박현빈|
 |[250502](https://github.com/ssu-humane/Seminar/blob/main/2025/20250502_Retrieval-Augmented%20Generation%20with%20Conflicting%20Evidence_%E1%84%80%E1%85%A9%E1%84%80%E1%85%A7%E1%86%BC%E1%84%87%E1%85%B5%E1%86%AB.pdf)|[Retrieval-Augmented Generation with Conflicting Evidence](https://arxiv.org/abs/2504.13079)|2025-04|preprint|고경빈|
 |[250425](https://github.com/ssu-humane/Seminar/blob/main/2025/20250425_Matryoshka%20Representation%20Learning_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%90%E1%85%A2%E1%84%80%E1%85%B2%E1%86%AB.pdf)|[Matryoshka Representation Learning](https://openreview.net/forum?id=9njZa1fm35)|2022-11|NeurIPS|김태균|
