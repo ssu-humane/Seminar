@@ -12,6 +12,7 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
+|[250906](https://github.com/ssu-humane/Seminar/blob/main/2025/20250904_No%20Questions%20are%20Stupid%2C%20but%20some%20are%20Poorly%20Posed%20Understanding%20Poorly-Posed%20Information-Seeking%20Questions_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%90%E1%85%A2%E1%84%80%E1%85%B2%E1%86%AB.pdf)|[No Questions are Stupid, but some are Poorly Posed: Understanding Poorly-Posed Information-Seeking Questions](https://aclanthology.org/2025.acl-long.160/ )|2025-07|ACL|김태균|
 |[250723](https://github.com/ssu-humane/Seminar/blob/main/2025/20250723_A%20Logical%20Fallacy-Informed%20Framework%20for%20Argument%20Generation_%E1%84%8B%E1%85%B5%E1%84%83%E1%85%A1%E1%84%92%E1%85%A7%E1%86%AB.pdf)|[A Logical Fallacy-Informed Framework for Argument Generation](https://aclanthology.org/2025.naacl-long.374.pdf)|2025-04|NAACL|이다현|
 |[250716](https://github.com/ssu-humane/Seminar/blob/main/2025/20250716_Learning_VS_Retrieval_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%80%E1%85%A5%E1%86%AB%E1%84%89%E1%85%AE.pdf)|[Learning vs Retrieval: The Role of In-Context Examples in Regression with Large Language Models](https://aclanthology.org/2025.naacl-long.417.pdf)|2025-04|NAACL|김건수|
 |[250716]()|[REL-A.I.: An Interaction-Centered Approach To Measuring Human-LM Reliance](https://aclanthology.org/2025.naacl-long.556.pdf)|2025-04|NAACL|정재윤|
