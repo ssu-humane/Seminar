@@ -12,6 +12,7 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
+|[251023](https://github.com/ssu-humane/Seminar/blob/main/2025/20251023%20Large%20Language%20Model%20Hacking_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%90%E1%85%A2%E1%84%80%E1%85%B2%E1%86%AB.pdf)|[Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs for Text Annotation](https://arxiv.org/abs/2509.08825)|2025-09|preprint|김태균|
 |[251016](https://github.com/ssu-humane/Seminar/blob/main/2025/20251016_The%20Stepwise%20Deception-Simulating%20the%20Evolution%20from%20True%20News%20to%20Fake%20News%20with%20LLM%20Agents_%E1%84%8B%E1%85%B5%E1%84%83%E1%85%A1%E1%84%92%E1%85%A7%E1%86%AB.pdf)|[The Stepwise Deception: Simulating the Evolution from True News to Fake News with LLM Agents](https://arxiv.org/abs/2410.19064)|2025-11|EMNLP|이다현|
 |[250925](https://github.com/ssu-humane/Seminar/blob/main/2025/20250925_UnSeenTimeQA_%E1%84%8B%E1%85%B2%E1%86%AB%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%AE%E1%86%AB.pdf)|[UnSeenTimeQA: Time-Sensitive Question-Answering Beyond LLMs’ Memorization](https://aclanthology.org/2025.acl-long.94/)|2025-07|ACL|윤예준|
 |[250918](https://github.com/ssu-humane/Seminar/blob/main/2025/20250918_Accuracy-Performance%20Trade-Offs%20in%20LLM%20Quantization_%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB.pdf)|[Give Me BF16 or Give Me Death”? Accuracy-Performance Trade-Offs in LLM Quantization](https://aclanthology.org/2025.acl-long.1304/)|2025-07|ACL|최종현|
