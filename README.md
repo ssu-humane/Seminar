@@ -12,7 +12,7 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
-|[260529]()|[]()|||고경빈|
+|[260605](https://github.com/ssu-humane/Seminar/blob/main/2026/20260605_A%20Mathematical%20Framework%20for%20Transformer%20Circuits_%EA%B3%A0%EA%B2%BD%EB%B9%88.pdf)|[A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)|2021-12|Anthropic|고경빈|
 |[260508](https://github.com/ssu-humane/Seminar/blob/main/2026/20260508_EmotionallyCharged%2C%20Logically%20Blurred%20AI-driven%20Emotional%20Framing%20Impairs%20Human%20Fallacy%20Detection_%EB%B0%95%EC%88%98%EB%B9%88.pdf)|[EmotionallyCharged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy Detection](https://aclanthology.org/2026.eacl-long.316/)|2026-03|EACL|박수빈|
 |[260424](https://github.com/ssu-humane/Seminar/blob/main/2026/20260424_ReFACT%20A%20Benchmark%20for%20Scientific%20Confabulation%20Detection%20with%20Positional%20Error%20Annotations_%EA%B9%80%ED%83%9C%EA%B7%A0.pdf)|[ReFACT: A Benchmark for Scientific Confabulation Detection with Positional Error Annotations](https://aclanthology.org/2026.eacl-long.381/)|2026-03|EACL|김태균|
 |[260409](https://github.com/ssu-humane/Seminar/blob/main/2026/20260409_Stay%20Focused-Problem%20Drift%20in%20Multi-Agent%20Debate_%EC%9D%B4%EB%8B%A4%ED%98%84.pdf)|[Stay Focused: Problem Drift in Multi-Agent Debate](https://aclanthology.org/2026.findings-eacl.268/)|2026-03|EACL|이다현|
