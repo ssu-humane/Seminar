@@ -12,6 +12,7 @@ Below is the list of discussed papers and presentation materials (in Korean).
 
 |발표 날짜|제목|발행 연월|Venue|발제자|
 |----|----|----|----|----|
+|[260724](https://github.com/ssu-humane/Seminar/blob/main/2026/20260724_Compositional%20Generalisation%20for%20Explainable%20Hate%20Speech%20Detection_%EB%B0%95%EC%88%98%EB%B9%88.pdf)|[Compositional Generalisation for Explainable Hate Speech Detection](https://aclanthology.org/2025.emnlp-main.703/)|2025-11|EMNLP|박수빈|
 |[260716](https://github.com/ssu-humane/Seminar/blob/main/2026/20260716_LLM%20Agents%20Grounded%20in%20Self-Reports%20Enable%20General-Purpose%20Simulation%20of%20Individuals_%EC%9D%B4%EB%8B%A4%ED%98%84.pdf)|[LLM Agents Grounded in Self-Reports Enable General-Purpose Simulation of Individuals](https://arxiv.org/abs/2411.10109)|2024-11|preprint|이다현|
 |[260703](https://github.com/ssu-humane/Seminar/blob/main/2026/20260703_Generative%20Agents-Interactive%20Simulacra%20of%20Human%20Behavior_%EC%9D%B4%EB%8B%A4%ED%98%84.pdf)|[Generative Agents-Interactive Simulacra of Human Behavior](https://dl.acm.org/doi/10.1145/3586183.3606763)|2023-10|UIST|이다현|
 |[260619](https://github.com/ssu-humane/Seminar/blob/main/2026/20260619_A%20Primer%20on%20the%20Inner%20Workings%20of%20Transformer-based%20Language%20Models_%EC%B5%9C%EC%A2%85%ED%98%84.pdf)|[A Primer on the Inner Workings of Transformer-based Language Models](https://arxiv.org/abs/2405.00208)|2024-10|preprint|최종현|
